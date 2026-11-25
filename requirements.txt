@@ -1,0 +1,12 @@
+requests
+numpy
+pillow
+pandas
+geopandas
+matplotlib
+rasterio
+scikit-learn
+shapely
+torch
+
+geotessera
